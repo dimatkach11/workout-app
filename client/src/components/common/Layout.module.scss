@@ -1,0 +1,12 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	padding: 30px;
+	max-width: 500px;
+	margin: 0 auto;
+
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
